@@ -5,4 +5,4 @@ Zip file is all the excel workbooks that contain the data
 
 Checkpoint 4 file is the R script for doing the Data manipulation and visualization
 
-Rmd file is the presentation
+
